@@ -15,12 +15,12 @@ this is third project of cloud developer nanodegree on udacity
 
 # screen shoot 
 
-## get pod 
-
-![alt text]()
-
 ## travis ci
 
-![alt text]()
+![alt text](https://github.com/Mohamed-awad/refactor-udagram-app-into-microservices/blob/master/images/travis1.png)
 
-![alt text]()
+![alt text](https://github.com/Mohamed-awad/refactor-udagram-app-into-microservices/blob/master/images/travis2.png)
+
+## get pod 
+
+![alt text](https://github.com/Mohamed-awad/refactor-udagram-app-into-microservices/blob/master/images/pod.png)
